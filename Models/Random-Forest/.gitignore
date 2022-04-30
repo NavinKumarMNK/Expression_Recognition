@@ -1,0 +1,6 @@
+app.py
+.ipynb_checkpoints/
+*.pkl
+fer2013.csv
+realdata/processed/
+__pycache__/
